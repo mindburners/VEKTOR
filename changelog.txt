@@ -1,2 +1,3 @@
+v0.13 - STRINGS mode: a full string machine built in
 v0.12 - Name your sounds when you save them
 v0.11 - Initial release
